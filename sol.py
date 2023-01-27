@@ -1,3 +1,4 @@
+# Written by Asmus Tørsleff
 import itertools
 import time
 start_time = time.time()
